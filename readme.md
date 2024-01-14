@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-# 🏄‍♂️ MY7H
+# 🏄‍♂️ 0xPAIIN
 
 **`CyberSec (Hacker/CTF Player)`**
 
@@ -31,7 +31,7 @@ As an ethical hacker, my focus is on creating a safer and more secure digital wo
 
 ## [TryHackMe](https://tryhackme.com/p/paiin)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe"> <br>
+<script src="https://tryhackme.com/badge/37662"></script> <br>
 
 ## 🛠️ My Favorite Language and Tools</h2>
 ## 🧰 Languages
