@@ -33,7 +33,7 @@ As an ethical hacker, my focus is on creating a safer and more secure digital wo
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/paiin.png" alt="TryHackMe"> <br>
 
-## [TryHackMe](https://tryhackme.com/p/paiin)
+## [TryHackMe](https://tryhackme.com/p/MY7H0x194)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe"> <br>
 
