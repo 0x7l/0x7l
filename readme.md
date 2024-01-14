@@ -31,7 +31,11 @@ As an ethical hacker, my focus is on creating a safer and more secure digital wo
 
 ## [TryHackMe](https://tryhackme.com/p/paiin)
 
-<script src="https://tryhackme.com/badge/37662"></script> <br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/paiin.png" alt="TryHackMe"> <br>
+
+## [TryHackMe](https://tryhackme.com/p/paiin)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/MY7H0x194.png" alt="TryHackMe"> <br>
 
 ## 🛠️ My Favorite Language and Tools</h2>
 ## 🧰 Languages
