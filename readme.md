@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-# 🏄‍♂️ 0xPAIIN
+# 🏄‍♂️ 0x7l
 
 **`CyberSec (Hacker/CTF Player)`**
 
